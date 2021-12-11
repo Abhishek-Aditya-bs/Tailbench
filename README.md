@@ -6,7 +6,8 @@ Tailbench is a benchmark suite and evaluation methodology for latency-critical a
 
 For more information about tailbench please refer to the following:
 
-[Tailbench Paper by Harshad Kasture](http://people.csail.mit.edu/sanchez/papers/2016.tailbench.iiswc.pdf)
+[TailBench: A Benchmark Suite and Evaluation
+Methodology for Latency-Critical Applications by Harshad Kasture](http://people.csail.mit.edu/sanchez/papers/2016.tailbench.iiswc.pdf)
 
 Note : This is an ongoing project.
 
